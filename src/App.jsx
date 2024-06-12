@@ -60,50 +60,77 @@ const jobSummaries = [
     ]
   },
   {
-    Position: "Managing Quality Engineer",
-    Date: "April 2018–July 2020",
-    company: 'QualiTest Group',
-    Location: "Bridgewater, NJ",
+    Position: "Senior QA Manager",
+    Date: "July 2018–June 2021",
+    company: 'PriceWaterhouseCoopers',
+    Location: "Denver, CO",
     Bullets: [
-      "On-site, hands-on consultant at client in Richmond, VA responsible for overall delivery of full software quality assurance lifecycle services as well as performing responsibilities of a QA Lead.",
-      "Participated in all phases of quality assurance operations, including developing the overall test strategy for each given project, providing estimates to leadership, writing and executing test cases (ALM/UFT), managing KPIs, leading defect triage meetings, performing ALM Site Administration, and reporting progress to key stakeholders.",
-      "Developed performance testing scripts with jMeter and executed them with BlazeMeter.",
-      "Functional testing projects completed: data center migration testing for a major online retailer, delivery of automated regression suites in both Selenium and UFT, extensive integration testing of mainframe enterprise resource planning system, and end-2-end testing of several web-based, customer-facing order entry systems.",
-
+      "Built and mentored team of 20+ engineers testing applications used in digital transformation of auditing practice.", 
+      "Worked with cloud-based applications written in Python, using Airflow for orchestration and Memsql clusters for data storage.",
+      "Deployed product performance/stress/load testing using Jmeter.",
+      "Implemented Agile automated testing strategy for API and UI testing through Ready API, Qualitia, scriptless test automation platform, deployed via Github and Jenkins.",
+      "Increased production deployment of new features from 3-6 months to 2-week cadence and increased throughput and efficiencies in software development and design cycle after implementing SAFe Agile QA methodologies.",
+      "Served as Scrum Master and Release Manager while assisting development team in implementing SAFe Agile which built sustainable release model to implement CI/CD through test and release automation.,
+      ]
+  },
+  {
+    Position: "Software QA Manager/Test Strategist",
+    Date: "August 2010–June 2018",
+    company: 'Hewlett Packard Enterprise',
+    Location: "Ft. Collins, CO",
+    Bullets: [
+      "Built and led a team of 20+ engineers ensuring all strategic business commitments were on time, within budget, and with high degree of quality.",
+      "Created execution plans based on critical customer problems and drove quality to meet upper management goals. ",
+      "Conducted salary and promotion planning based on performance ratings. ",
+      "Managed budget for lab equipment and contingent workers. ",
+      "Represented QA with cross-functional teams, determining project requirements and test schedules and negotiating deliverables in alignment with strategic goals.",
+      "Identified risks and dependencies, ensuring backlog was prioritized and achieving team commitment to PI Plan.",
+      "Fostered environment where teams were self-organized and promoted learning through using SAFe Agile processes to embed QA team members into dev feature teams allowing teams to build and deliver features on biweekly cadence.",
+      "Decreased 3-6 month delivery cycles to 2-week quarterly process after architecting transition of QA and Development Teams from Waterfall to SAFe Scrum methodologies at sustainable pace. ",
+      "Architected and executed automation strategy to transition to CI/CD DevOps methodologies therefore creating automated smoke results immediately upon completion of builds.",
+      "Developed and executed plans to transition developer-based testing to Quality Engineering methodology to drive higher quality and sustainable results to business unit. Created test strategies and drove test plan execution. Presented test results at project milestone meetings to quantify release confidence. Provided lab management for hardware and virtualized systems. ",
+      "Gathered and analyzed key performance data to identify strengths and weaknesses therefore matching test features to requirements and providing mentorship on areas that lacked expertise. ",
     ]
   },
   {
-    Position: "Sr. Software Test Engineer",
-    Date: "May 2017–March 2018",
-    company: 'Fiserv',
-    Location: "Parsippany, NJ",
+    Position: "Test Product Support Manager/Lead QA Engineer",
+    Date: "August 1997 – July 2010 ",
+    company: 'Sun/Oracle',
+    Location: "Broomfield, CO",
     Bullets: [
-      "Designed and executed tests for native iOS and Android mobile banking applications, web services, and web applications.",
-      "Led efforts to design regression test suite for high profile applications, which included writing automated tests in SilkTest, reviewing code of junior team members, and supervising completion of projects.",
+      "Managed team that conducted embedded system testing for virtual tape and storage products. Gathered and analyzed project metrics for internal and partner groups for process improvement implementation. Offered test project leadership on all midrange, low-cost arrays, and Array Manager Software. Facilitated QA presentations and messages at business unit reviews. Developed program requirements, functional specs, white papers and user docs for QA. ",
+      "Directed functional and system test on storage and SAN management development projects. Generated comprehensive standardized test plans and test cases based on product design requirements. Recognized as instrumental in setup and qualification of test configurations along with internal lab infrastructure.",
+      "Served as Product Engineer for Veritas Volume Manager, FileSystems. Provided sustaining engineering for products by assisting vendors in diagnostics of bugs and escalations. Worked with management and test organizations to release quality products. ",
+      "Provided technical support to mission critical, storage customers and Field Engineers. Worked with customers on high availability platforms, ensuring quick resolution of problems. Received award based on customer satisfaction survey",
     ]
   },
   {
-    Position: "SAP Test Manager & Automation Engineer",
-    Date: "May 2011 – May 2017 ",
-    company: 'BASF Corporation',
-    Location: "Florham Park, NJ",
+    Position: "Systems Administrator",
+    Date: "May 1996 – August 1997",
+    company: 'Tele-Communications, Inc',
+    Location: "Englewood, CO",
     Bullets: [
-      "Developed and executed automated tests to validate BASF’s most critical, end-to-end, global business processes using UFT and Worksoft Certify.",
-      "Coordinated User Acceptance Testing for 15 business units and 12 service functions in North and Central America during quarterly SAP updates and regional IT projects.",
-      "Ensured all test systems and tools were correctly configured and accessible by UAT testers",
-      "Lead training sessions on topics such as test script creation, testing tool usage, and Quality Assurance best practices.",
+      "Supervised others and performed system administration on mid-size Solaris development environment.",
+      "Responsible for recommendation, planning and implementation of all computer hardware and software.",
+      "Implemented Backup and Disaster Recovery plan",
+      "Designed and implemented web interface to assist in System Administration and User support functions.",
     ]
   },
   {
-    Position: "Programmer/SDET",
-    Date: "May 2007 – May 2011",
-    company: 'United Parcel Service, Inc.',
-    Location: "Mahwah, NJ",
+    Position: "Programmer/Network Analyst",
+    Date: "January 1992 – February 1995",
+    company: 'Antartic SUpport Associates',
+    Location: "Englewood, CO / McMurdo Station Antarctica",
     Bullets: [
-      "Served as internal consultant to testing teams by assisting them with finding opportunities for test automation and providing testing tool training, technical support, POC automation, and framework setup during their automation efforts.",
-      "Designed and developed Performance Testing scripts and scenarios using LoadRunner",
-      "Developed proprietary testing tools using Visual Basic and C# to enable the manual testing team to capture important system configuration information during test execution.",
-      "Performed manual testing of UPS hardware and software systems used in package distribution centers and aboard delivery trucks.",
+      
+    ]
+  },{
+    Position: "Lance Corporal",
+    Date: "December 1983 – November 1987",
+    company: 'United States Marine Corps',
+    Location: "California / Okinawa, Japan",
+    Bullets: [
+      
     ]
   },
 ]
