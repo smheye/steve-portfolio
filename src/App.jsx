@@ -139,15 +139,16 @@ function App() {
         />
         <About
           certifications={[
-            'Certified Tester – ISTQB Foundation Level 2017',
-            'Certified Scrum Master (CSM) 2016'
+            'Executive Briefing: Artificial Intelligence (AI) + ChatGPT 2023',
+            'Human-Centered Design 2020',
+            "Digital Acumen 2019"
           ]}
           education={{
-            educationOrganization:"New Jersey Institute of Technology",
-            degreee:"B.A. Information Systems",
-            date:"2008"
+            educationOrganization:"University of Phoenix",
+            degreee:"B.S. Computer and Information Science",
+            date:"2002"
           }}
-          summary={"Collaborative, flexible, and business-focused Software Quality Specialist with a strong leadership background.  Detail-oriented with the ability to thoroughly analyze systems, identify risks, and formulate testing strategies to satisfy business requirements.  Proven track record of utilizing automation and prioritizing deliverables in order to eliminate test coverage gaps and meet aggressive deadlines while meticulously exercising the application under test."}
+          summary={"Seasoned Senior Quality Assurance Manager with a proven track record of leading geographically dispersed teams in cultivating a culture of quality excellence. Skilled in directing SAFe Agile teams, serving as an Agile Scrum Master, and overseeing large-scale hardware, storage, and software projects to successful completion. Proficient in leveraging high-level communication to troubleshoot challenges and drive innovative solutions. Adept at implementing automation strategies, optimizing testing processes, and fostering collaboration across teams. Specialized expertise in project management, program management, and continuous integration. Committed to delivering exceptional results and driving continuous improvement within organizations."}
         />
         <Experience
           technicalSkills={technicalSkills}
