@@ -18,41 +18,45 @@ import Contact from './components/Contact'
 const technicalSkills = [
   {
     category: 'Test Management Tools',
-    skills: ["Jira", "Micro Focus ALM", "Axure Devops/TFS", "TestRail", "IBM RQM", "SCTM"]
+    skills: ["Jira", "Micro Focus ALM", "Axure Devops/TFS"]
   },
   {
     category: 'Test Automation',
-    skills: ["Micro Focus UFT, Selenium, Tricentis Tosca, SilkTest, Worksoft Certify"]
+    skills: ["Selenium, Robot "]
   },
   {
     category: 'Performance Testing Tools',
-    skills: ["LoadRunner, jMeter, Blazemeter, k6, Artillery"]
+    skills: ["jMeter, LoadRunner, Blazemeter"]
   },
   {
     category: 'API Testing Tools',
-    skills: ["PostMan, SoapUI, Python Requests"]
+    skills: ["PostMan, SoapUI"]
   },
   { 
     category: 'Programming Languages',
-    skills: ['Java, JavaScript, VBScript, Python, C#, SQL, YAML, XML']
+    skills: ['C#, Python, Java, JavaScript, SQL, XML']
   },
   {
     category: 'Other',
-    skills: ['Jenkins, CircleCI, Serenity BDD, Cucumber, Gherkin, Maven, J/N/XUnit, RestAssured, Stryker, Snyk']
+    skills: ['Jenkins, SpecFlow, Gherkin, NUnit, Rest, BrowserStack, PowerBI']
   }
 ]
 const jobSummaries = [
   {
-    Position: "Senior Software Quality Engineer",
-    Date: "July 2020–Present",
-    company: 'Quicken Loans',
-    Location: "Detroit, MI",
+    Position: "Assistant Director/Senior Test Automation Manager",
+    Date: "July 2021– July 2023",
+    company: 'Ernst & Young',
+    Location: "Denver, CO",
     Bullets: [
-      "Currently supporting 5 agile teams as the Train Quality Engineer with responsibilities that include setting the overall direction of the Quality Engineering program, architecting quality enablement processes and systems, devising and implementing testing strategies and tactics, setting quality-related goals, identifying key performance indicators, monitoring results, and adjusting as needed.",
-      "Built a Python Selenium automation framework from the ground-up with key features that include taking full-page screenshots, multiple browser and resolution support, and interrogating HTTP requests during test execution.",
-      "“Shifted-Left” on integration testing by leading efforts to design a new API testing framework which software and quality engineers now use to write and run integration tests on their local machine without having to first deploy their code changes to the test environment.",
-      "Developed Performance testing scenarios using k6 to enable performance testing in our CI/CD build pipelines as well as act as a sanity test before handing off our application to the Enterprise Performance Testing Team.",
-      "Currently designing an AI-backed, quality information system to gain telemetry on all test cases throughout the organization and act as a centralized hub for testing and quality metrics."
+      "Led 15 QA automation projects with 100+ automation engineers within EY Global Tax developing UI, API, SDK, in-sprint, feature, smoke, and regression automation using Selenium with Page Object Model pattern framework written in C#.",
+      "Engage with new projects and deliver automation estimates with return on investment (ROI)",
+      "Manage multiple internal and external PoC’s including new automation tools, Azure DevOps Scale Set agents, BDD, SpecFlow and data obfuscation technology to determine viability for EY Global Tax",
+      "Plan and deploy automation infrastructure upgrades on tax projects",
+      "Drove initiatives to drive a shift left mentality to deliver quality initiatives.",
+      "Coached Automation Engineers to work across projects building standardized automation processes for EY Global Tax and expanding test automation coverage to over 75%.",
+      "Achieved 50% reduction in deployment time after developing CI/CD processes for smoke and regression testing.",
+      "Self-trained on PowerBi, and built real-time metrics reporting delivering coverage, execution, and pass / fail results metrics.",
+      "Led Automation Community of Practice across EY business units, collaborating on POC and automation design techniques and building knowledge across organizations."
     ]
   },
   {
