@@ -70,7 +70,7 @@ const jobSummaries = [
       "Deployed product performance/stress/load testing using Jmeter.",
       "Implemented Agile automated testing strategy for API and UI testing through Ready API, Qualitia, scriptless test automation platform, deployed via Github and Jenkins.",
       "Increased production deployment of new features from 3-6 months to 2-week cadence and increased throughput and efficiencies in software development and design cycle after implementing SAFe Agile QA methodologies.",
-      "Served as Scrum Master and Release Manager while assisting development team in implementing SAFe Agile which built sustainable release model to implement CI/CD through test and release automation.,
+      "Served as Scrum Master and Release Manager while assisting development team in implementing SAFe Agile which built sustainable release model to implement CI/CD through test and release automation.",
       ]
   },
   {
