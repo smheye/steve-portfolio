@@ -105,26 +105,15 @@ const jobSummaries = [
     ]
   },
   {
-    Position: "Systems Administrator",
-    Date: "May 1996 – August 1997",
-    company: 'Tele-Communications, Inc',
-    Location: "Englewood, CO",
-    Bullets: [
-      "Supervised others and performed system administration on mid-size Solaris development environment.",
-      "Responsible for recommendation, planning and implementation of all computer hardware and software.",
-      "Implemented Backup and Disaster Recovery plan",
-      "Designed and implemented web interface to assist in System Administration and User support functions.",
-    ]
-  },
-  {
     Position: "Programmer/Network Analyst",
     Date: "January 1992 – February 1995",
-    company: 'Antartic SUpport Associates',
+    company: 'Antarctic Support Associates',
     Location: "Englewood, CO / McMurdo Station Antarctica",
     Bullets: [
       
     ]
-  },{
+  },
+  {
     Position: "Lance Corporal",
     Date: "December 1983 – November 1987",
     company: 'United States Marine Corps',
