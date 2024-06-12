@@ -161,7 +161,7 @@ function App() {
         <Divider/>
         <Contact
           email={"smheye@gmail.com"}
-          linkedInUrl={"https://www.linkedin.com//in/steve-heye"}
+          linkedInUrl={"https://www.linkedin.com/in/steve-heye"}
         />
         
       </Box>
